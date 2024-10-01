@@ -1,0 +1,11 @@
+/* Add application styles & imports to this file! */
+.texto {
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: xx-large;
+}
+
+.back {
+  background-color: black;
+}
